@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ParneetRaman1104
+- 👋 Hi, I’m Parneet Raman
 - I'm a BCA final year student passionate about web development.
 
-🚀 I'm currently learning and working on:
+ I'm currently learning and working on:
    - Front-end technologies: HTML, CSS, JavaScript
    - Back-end development using Node.js
    - Database management with MongoDB
