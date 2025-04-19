@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParneetRaman1104
-- I'm a BCA 2nd-year student passionate about web development.
+- I'm a BCA final year student passionate about web development.
 
 🚀 I'm currently learning and working on:
    - Front-end technologies: HTML, CSS, JavaScript
